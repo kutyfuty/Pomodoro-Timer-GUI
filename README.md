@@ -23,4 +23,4 @@ Since this project uses only Python's standard libraries, no external installati
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/KULLANICIADIN/Pomodoro-Custom-App.git](https://github.com/kutyfuty/Pomodoro-Custom-App.git)
+   git clone [https://github.com/kutyfuty/Pomodoro-Custom-App.git](https://github.com/kutyfuty/Pomodoro-Custom-App.git)
